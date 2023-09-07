@@ -4,3 +4,5 @@
 ### Semantic Token을 사용하여 성능의 악화를 최소화 시키는 연구 입니다.
 
 1. 연구 내용
+   * Semantic Token 생성 방법
+   * 
